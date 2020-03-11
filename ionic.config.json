@@ -1,0 +1,7 @@
+{
+  "name": "IonicSurfShop01",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
